@@ -1,4 +1,3 @@
-# PipelineDataUpload-docs[README.md](https://github.com/user-attachments/files/23621627/README.md)
 # PipelineDataUpload Documentation
 
 Welcome to the comprehensive documentation for the PipelineDataUpload web application. This documentation is organized for different audiences:
